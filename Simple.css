@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(189, 158, 101);
+    text-align: center;
+}
+button {
+  margin-top: 10px;
+  text-align: center;
+}
+.text-center{
+    text-align: center;
+    text-transform: uppercase;
+    border: 1em;
+    bottom: auto;
+    text-indent: bottom;
+}
